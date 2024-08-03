@@ -5,7 +5,7 @@ https://jerulu.domains.ggc.edu/personalWebsite/index.html
 
 
 ## Link to Youtube Video
-https://studio.youtube.com/video/-NVnXpTe3Lc/edit
+https://youtu.be/-NVnXpTe3Lc
 
 Welcome to the repository for Joel Erulu's Personal Website. This site showcases my resume, projects, skills, certifications, and awards. It's built using HTML, CSS, and JavaScript, and is designed to provide a comprehensive overview of my professional profile.
 
